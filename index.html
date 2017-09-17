@@ -3,30 +3,13 @@
 <head>
 	<link rel="stylesheet" href="{{ url_for('static', filename='stylesheet.css') }}" type="text/css" charset="utf-8" />
 	<link rel="stylesheet" href="{{ url_for('static', filename='styleINDEX.css') }}" type="text/css" charset="utf-8" />
-  <script src="{{ url_for('static', filename='jquery-3.1.1.min.js') }}" charset="utf-8"></script>
-  <script src="{{ url_for('static', filename='jquery-ui.min.js') }}" charset="utf-8"></script>
-	<link rel="stylesheet" href="{{ url_for('static', filename='ionicons.min.css') }}">
-	<script type='text/javascript' src="{{ url_for('static', filename='jquery.particleground.js') }}"></script>
-  <script type='text/javascript' src="{{ url_for('static', filename='particles.js') }}"></script>
-	<link rel='stylesheet' href='//cdn.jsdelivr.net/font-hack/2.020/css/hack.min.css'>
 	<title>HUBBLE</title>
-	<script type=text/javascript>
-	  $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
-	</script>
 </head>
 <body>
-		<span id="player" switch="a"><i class='ion-pause'></i></span>
-		<span id="config"><a href="#openAccount"><i class='ion-person'></i></a></span>
-		<div id="otherline">
-
-		</div>
 		<div id="bigline">
 			<div id="smallerbline">
 				<h1 id="title"><a href="">Chemistry</h1>
 			</div>
-
-			<!-- <div id="smallerline"></div> -->
-			<!-- <br><br> <br><br> -->
 			<div id="otherSection">
 				<p id="absl"><span>ABSTRACT</span></p>
 				<p id="mapl"><span>MAP</span></p>
@@ -34,36 +17,8 @@
 				<p id="linkl"><span>LINKS</span></p>
 			</div>
 		</div>
-    <div id="wholeanswr">
-			<table>
-				
-			</table>
+    		<div id="wholeanswr">
+
 		</div>
-
-		<script type=text/javascript src="{{ url_for('static', filename='index_animations.js') }}"></script>
-
-		<div id="openAccount" class="modalDialog">
-        <div>
-            <a href="#closeAccount" title="closeAccount" class="close">CLOSE</a>
-						{% if nameb == None %}
-							<h2 style="line-height: 60px;">ACCOUNT OPTIONS</h2>
-						{% else %}
-							<h2 style="line-height: 60px;">{{ nameb }}'S ACCOUNT</h2>
-						{% endif %}
-            <div>
-              {% if name == None %}
-                <h2 class="mtitle"><a href="/signup">SIGN UP</a></h2>
-                <p>or</p>
-                <h2 class="mtitle"><a href="/login">LOG IN</a></h2>
-              {% else %}
-                <!-- Hello {{ name }}!<br><br> -->
-                <h2 class="mtitle" style="font-size: 18px;"><a href="/logout">LOG OUT</a></h2>
-                <h2 class="mtitle" style="font-size: 18px;"><a href="/t/config">MANAGEMENT</a></h2>
-                <h2 class="mtitle" style="font-size: 18px;"><a href="/sourcery">SOCIALIZE</a></h2>
-								<h2 class="mtitle" style="font-size: 18px;"><a href="/maze">THE CLOUD</a></h2>
-              {% endif %}
-            </div>
-        </div>
-    </div>
 </body>
 </html>
