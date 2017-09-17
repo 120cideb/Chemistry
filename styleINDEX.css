@@ -3,113 +3,6 @@ body {
 	/*background-color: #0F484F;*/
 }
 
-::selection {
-	background: #BFBFBF;
-	/*#C84642;*/
-	color: #111111;
-}
-::-moz-selection {
-  background: #BFBFBF;
-	/*#C84642;*/
-	color: #111111;
-}
-
-#logo {
-	border-radius: 50%;
-	width: 200px;
-	height: 200px;
-	background-color: #BFBFBF;
-	box-shadow:
-		0 0 0 10px #BFBFBF,
-		inset 0 0 0 3px #222,
-		inset 0 0 0 60px #BFBFBF,
-		inset 0 0 0px 63px #222,
-		inset 0 0 0 68px #00e3ef,
-		inset 0 0 0 100px #222;
-	margin-top: 35px;
-	margin-bottom: 90px;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-/*#logo {
-	border-radius: 50%;
-	width: 200px;
-	height: 200px;
-	background-color: #1B8551;
-	box-shadow:
-    0 0 0 8px grey,
-    0 0 0 13px #8f918b,
-		inset #343434 0px 0px 6px 1px,
-	  /*inset hsla(210,100%,100%,.7) 0  0px 0px 0px,
-
-	  inset #1B8551 6px 6px 6px 6px;
-	margin-top: 35px;
-	margin-bottom: 90px;
-	margin-left: auto;
-	margin-right: auto;
-}*/
-
-.machine {
-	font-size: 15px;
-	color: #111111;
-	margin-left: 15px;
-	margin-top: 20px;
-	background-color: #333333;
-	text-color: #1C1C1C;
-	border-radius: 15px;
-	padding: 10px;
-	color: #DDDDDD;
-	font-family: 'acremedium';
-}
-
-.you {
-	font-size: 15px;
-	color: #111111;
-	margin-right: 15px;
-	margin-top: 20px;
-	background-color: #333333;
-	text-color: #1C1C1C;
-	border-radius: 15px;
-	padding: 10px;
-	color: #DDDDDD;
-	font-family: 'acremedium';
-}
-
-#subtitle {
-	text-align: center;
-	font-size: 70px;
-	font-family: 'Anurati-Regular';
-	letter-spacing: 15px;
-	text-indent: 15px;
-	/*padding: 30px 0px 0px 0px;*/
-	line-height: 25px;
-	font-weight: normal;
-	/*margin-bottom: 60px;*/
-	color: #111111;
-}
-
-#player {
-	position: fixed;
-	top: 10px;
-	right: 15px;
-	font-size: 25px;
-}
-
-#config {
-	position: fixed;
-	top: 45px;
-	right: 12px;
-	font-size: 25px;
-	text-decoration: none;
-	color: #111111;
-}
-
-
-#config a {
-	color: inherit;
-	text-decoration: inherit;
-}
 
 #title a {
 	color: inherit;
@@ -136,13 +29,6 @@ body {
 	left: 0;
 	right: 0;
 	margin: auto;
-}
-
-#emotion {
-	text-align: center;
-	color: #111111;
-	margin: auto;
-	font-family: 'fnordtwenty-three';
 }
 
 #title2 {
