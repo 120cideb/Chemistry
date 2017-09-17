@@ -1,1 +1,1 @@
-## Welcome to the Chemistry class
+# Welcome to the Chemistry class
