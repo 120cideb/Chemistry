@@ -27,7 +27,7 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <img src="http://cideb.uanl.mx/imagenes/logo_uanl.png" alt="UANL"><h1>{{ site.title | default: site.github.repository_name }}</h1><img src="http://cideb.uanl.mx/imagenes/logo_prepa.png" alt="CIDEB">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
             <h2>{{ site.description | default: site.github.project_tagline }}</h2>
           </span>
           <span class="left-tail"></span>
@@ -35,18 +35,11 @@
         </span>
       </header>
 
-      {% if site.show_downloads %}
         <section id="downloads">
           <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
+            <img src="http://cideb.uanl.mx/imagenes/logo_uanl.png" alt="UANL"><img src="http://cideb.uanl.mx/imagenes/logo_prepa.png" alt="CIDEB">
           </span>
         </section>
-      {% else %}
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
-      {% endif %}
 
 
       <span class="banner-fix"></span>
