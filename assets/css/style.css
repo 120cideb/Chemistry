@@ -17,3 +17,7 @@ section#downloads a {
     font-weight: 800;
     font-size: 1.3em;
 }
+
+.tgz, .zip {
+    border: 0px;
+}
