@@ -1,8 +1,9 @@
+![](http://cideb.uanl.mx/imagenes/logo_uanl.png) ![](http://cideb.uanl.mx/imagenes/logo_prepa.png)
+
 # Centro De Investigación y Desarrollo de Educación Bilingüe
 
 ## Chemistry I class
 ### Teacher Heber Torres
-### hola
 
 # Team
 
