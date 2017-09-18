@@ -248,6 +248,41 @@ It naturally occurs as mineral niter, but their uses in the industry allow us to
 
 ___
 
+# Interview
+
+I: Hello Doctor, we want to ask you for some advices about our diets?
+
+D: Well, I am all ears
+
+I: First of all, what can you tell us about calcium?
+
+D: Okay, I would recommend you to have a balanced diet, in order to ingest it in the right amount and to help it do its function by exercising.
+
+I: And... What about sulfur?
+
+D: Ohhh, you should obviously avoid to ingest it directly, however you need it in foods like fish, but do not eat too much as it can dry your skin.
+
+I: How about iodine?
+
+D: As you may know, it is present in salt, as it is artificially iodized, so you must be careful about how much salt you ingest.
+
+I: Now, lets go with compounds, what can you tell us about iron oxide?
+
+D: Uhm... well, you have to be careful with these vitamins, as they can lead to hemosidrosis.
+
+I: Okay, this is the last question, should we consume potassium nitrate?
+
+D: Oh no, you must not, unless it is used as a medical treatment, I believe it is used for asthma.
+
+I: Well Doctor, thank you for your time and all these valuable advices.
+
+D: Oh, do not mind it, it has been a pleasure.
+
+![](WhatsApp%20Image%202017-09-16%20at%2018.15.33.jpeg)
+Zenia with the Doctor.
+
+___
+
 # Reflections
 
 ## Zenia
@@ -273,3 +308,45 @@ Elements are necessary for everything we need to use, like body necessities like
 ## Roberto
 
 There are some elements that are very important for us to have in our daily diet, indirectly as part of many foods, because we require them in order for our body to function properyl. But we should be carfeul, because if we take too much or too little it can damage our health instead. Also there are elements and compound in which most of our industry relies, so we also have to value them as they form an important part of our live through the devices and products we use.
+
+___
+
+# Team's conclusion
+
+We now have learned to appreciate the importance of ingesting the right quantity of some elements and compounds in our dailt diet, as some of them play major roles in our body functioning, and lack or excessive amounts of them can cause health problems, which we all want to avoid, so we must take care of what and how we eat.
+
+___
+
+# References
+
+Hypercalcemia. (2017, July 07). Retrieved September 18, 2017, from http://www.mayoclinic.org/diseases-conditions/hypercalcemia/symptoms-causes/dxc-20316715
+
+Curinga, K. (2015, April 13). List of Foods High in Sulfur. Retrieved September 18, 2017, from http://www.livestrong.com/article/289250-list-of-foods-high-in-sulfur/
+
+https://upload.wikimedia.org/wikipedia/commons/b/b3/Potassium_nitrate.jpg
+
+http://thescienceofacne.com/wp-content/uploads/2016/09/Elemental-Calcium.jpg
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sulfur-sample.jpg/1200px-Sulfur-sample.jpg
+
+https://images-na.ssl-images-amazon.com/images/I/51Eu8AyBeFL.jpg
+
+Office of Dietary Supplements - Iodine. (n.d.). Retrieved September 18, 2017, from https://ods.od.nih.gov/factsheets/Iodine-Consumer/
+
+IODINE. (n.d.). Retrieved September 18, 2017, from http://www.chemistryexplained.com/elements/C-K/Iodine.html
+
+Teeboom, L. (2015, August 16). Lack of Sulfur in the Body. Retrieved September 18, 2017, from http://www.livestrong.com/article/485922-lack-of-sulfur-in-the-body/
+
+Fredenburg, M. (2015, June 17). What Happens if You Get Too Much Sulfur in Your Diet? Retrieved September 18, 2017, from http://www.livestrong.com/article/430390-what-happens-if-you-get-too-much-sulfur-in-your-diet/
+
+The Importance of Sulfur to Your Body. (n.d.). Retrieved September 18, 2017, from http://articles.mercola.com/sites/articles/archive/2016/05/16/sulfur-in-the-body.aspx
+
+Water Treatment Solutions. (n.d.). Retrieved September 18, 2017, from http://www.lenntech.com/periodic/elements/i.htm
+
+Office of Dietary Supplements - Calcium. (n.d.). Retrieved September 18, 2017, from https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/
+
+CALCIUM: Uses, Side Effects, Interactions and Warnings. (n.d.). Retrieved September 18, 2017, from http://www.webmd.com/vitamins-supplements/ingredientmono-781-calcium.aspx?activeingredientid=781
+
+Calcium. (n.d.). Retrieved September 18, 2017, from http://www.webmd.com/diet/supplement-guide-calcium#1
+
+Water Treatment Solutions. (n.d.). Retrieved September 18, 2017, from http://www.lenntech.com/periodic/elements/ca.htm
