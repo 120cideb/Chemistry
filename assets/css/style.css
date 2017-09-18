@@ -21,3 +21,7 @@ section#downloads a {
 .tgz, .zip {
     border: 0px;
 }
+
+.tgz img, .zip img {
+    border: 0px;
+}
