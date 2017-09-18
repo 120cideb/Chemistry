@@ -6,7 +6,7 @@ ___
 
 ## Calcium
 
-![](https://upload.wikimedia.org/wikipedia/commons/0/09/Calcium_1.jpg)
+![](http://thescienceofacne.com/wp-content/uploads/2016/09/Elemental-Calcium.jpg)
 
 ### Physical properties
 
@@ -124,6 +124,8 @@ Main sources of iodine are fish, as cod and tuna, or shrimp. Dairy products and 
 
 ## Sulfur
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sulfur-sample.jpg/1200px-Sulfur-sample.jpg)
+
 ### Physical properties
 
 - It is soft
@@ -175,6 +177,8 @@ ___
 
 ## Iron (III) oxide
 
+![](https://images-na.ssl-images-amazon.com/images/I/51Eu8AyBeFL.jpg)
+
 ### Common name
 
 It is usually called like its chemical counterpart, iron oxide, or just rust.
@@ -200,6 +204,8 @@ The presence of iron oxide in the environment can lead to siderosis which is ese
 Iron (III) oxide is present everywhere, we see iron and steel structures everywhere and every place this is, rust will be also there, it is present in thermite, hemoglobin and some pigments too, obviously the reddish ones and their down or upgraded versions like orange and violet.
 
 ## Potassium nitrate
+
+![](https://en.wikipedia.org/wiki/Potassium_nitrate#Pharmacology)
 
 ### Common name
 
@@ -243,7 +249,11 @@ The elements are important for our body, our body needs of them too keep functio
 
 ## Alejandro
 
+Elements are really basic in our lives, so much, even our bodies depend on elements. If elements didn't exist, our lives would be pretty different or not even real, because, thanks to elements, multiple people have made discoveries that served as a base for what we use and depend on today.
+
 ## Leonel
+
+Elements are necessary for everything we need to use, like body necessities like breathing to architecture like constructing buildings and houses. Chemistry is now focusing in nanotechnology, which could facilitate a lot of things for the human kind
 
 ## Roberto
 
