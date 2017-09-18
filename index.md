@@ -1,7 +1,7 @@
 # Centro De Investigación y Desarrollo de Educación Bilingüe
 
 ## Chemistry I class
-## Teacher Heber Torres
+### Teacher Heber Torres
 
 # Team
 
