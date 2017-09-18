@@ -1,8 +1,16 @@
-CENTRO DE INVESTIGACIÓN Y DESARROLLO DE EDUCACIÓN BILINGÜE
+# Centro De Investigación y Desarrollo de Educación Bilingüe
 
-C I CLASS
+## Chemistry I class
+## Teacher Heber Torres
 
-Teacher Heber Torres
+# Team
+
+- Zenia Villarreal Costilla         #1905851
+- Aaron Villarreal Garza            #1896356
+- Javier Alejandro Pérez Garza      #1895607
+- Alejandro González Martínez       #1895080 
+- Roberto Treviño Cervantes         #1915003
+- Jesús  Leonel Contreras Martínez  #1898385 
 
 ___
 
