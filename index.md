@@ -1,5 +1,12 @@
-Here at **ELEMENTAL**, we are concerned about the **health implications** of *ingesting* some elements and compounds, therefore we have created this webpage, in which you can *find* **useful information** about them*, like their **chemical** and **phyisical properties** and how they *affect* your **body**.
+CENTRO DE INVESTIGACIÓN Y DESARROLLO DE EDUCACIÓN BILINGÜE
 
+C I CLASS
+
+Teacher Heber Torres
+
+___
+
+Here at **ELEMENTAL**, we are concerned about the **health implications** of *ingesting* some elements and compounds, therefore we have created this webpage, in which you can *find* **useful information** about them*, like their **chemical** and **phyisical properties** and how they *affect* your **body**.
 ___
 
 # Elements
