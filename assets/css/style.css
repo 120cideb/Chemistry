@@ -20,6 +20,7 @@ section#downloads a {
 
 .tgz, .zip {
     border: 0px;
+    margin-bottom: 100px;
 }
 
 .tgz img, .zip img {
