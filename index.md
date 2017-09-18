@@ -205,7 +205,7 @@ Iron (III) oxide is present everywhere, we see iron and steel structures everywh
 
 ## Potassium nitrate
 
-![](https://en.wikipedia.org/wiki/Potassium_nitrate#Pharmacology)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b3/Potassium_nitrate.jpg)
 
 ### Common name
 
